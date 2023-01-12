@@ -2,12 +2,12 @@
 //  main.c
 //  HANOI
 //
-//  Created by Aleksander von Mehlem on 29/10/2022.
+//  Created by Aleksander on 29/10/2022.
 //
 //  I wrote this program to help me with my IA in mathematics.
 //
 
-/* C program for Tower of Hanoi*/
+/* C program for Tower of Hanoi */
 #include <stdio.h>
 void towerfun(int, char, char, char);
 int main()
